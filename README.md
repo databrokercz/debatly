@@ -1,6 +1,6 @@
 # AI Text Generation, Image Generator, Speech to Text, Text to Voice, AI Chatbots | Debatly
 
-Generate content in seconds with Debatly! 🚀 Unlock the power of AI to craft engaging articles, write flawless code, and design stunning images effortlessly. Elevate your creativity and productivity – visit Debatly.com and transform your ideas into reality today! 🎨✨ Join us as we explore these powerful tools and show you how Debatly can revolutionize your content creation process.
+Generate content in seconds with [Debatly](https://www.debatly.com)! 🚀 Unlock the power of AI to craft engaging articles, write flawless code, and design stunning images effortlessly. Elevate your creativity and productivity – visit Debatly.com and transform your ideas into reality today! 🎨✨ Join us as we explore these powerful tools and show you how Debatly can revolutionize your content creation process.
 
 ## ✨ Features
 
